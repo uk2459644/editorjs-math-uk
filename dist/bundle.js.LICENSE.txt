@@ -1,0 +1,6 @@
+/**
+ * Mathk block for the Editor.js.
+ *
+ * @author Upendra Kumar
+ * @license MIT
+ */
