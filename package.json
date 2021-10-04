@@ -1,6 +1,6 @@
 {
   "name": "editorjs-math-uk",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Editorjs math function wrapped by katex",
   "main": "./dist/bundle.js",
   "scripts": {
