@@ -71,8 +71,8 @@ inlineToolbar: true.
 {
     "type":"mathk",
     "data": {
-                type: 'primary',
-                message: '',x=\frac{\pi}{2}\sqrt{e=mc^2}
+                "type": "primary",
+                "message": "x=\frac{\pi}{2}\sqrt{e=mc^2}"
          }
 }
 
